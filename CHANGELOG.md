@@ -1,5 +1,13 @@
 # @primer/css
 
+## 18.0.0-next.0
+
+### Major Changes
+
+- [#1462](https://github.com/primer/css/pull/1462) [`32040ff9`](https://github.com/primer/css/commit/32040ff9ca7df9cd6f9cca8124fb95bde0fa4834) Thanks [@jonrohan](https://github.com/jonrohan)! - Rename `modes.scss` file to `color-modes.scss` and move from the `base/` folder to the `support/variables` folder.
+
+* [#1465](https://github.com/primer/css/pull/1465) [`53685d83`](https://github.com/primer/css/commit/53685d8321bfa5eb07d2feacd51ad27239cbcaba) Thanks [@jonrohan](https://github.com/jonrohan)! - Moving color modes to their own bundle, `./color-modes/` and separates color mode themes into their own scss file.
+
 ## 17.3.0
 
 ### Minor Changes

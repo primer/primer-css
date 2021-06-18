@@ -4,5 +4,8 @@
   "initialVersions": {
     "@primer/css": "17.0.0"
   },
-  "changesets": []
+  "changesets": [
+    "mighty-goats-teach",
+    "new-beers-peel"
+  ]
 }
